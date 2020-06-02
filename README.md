@@ -13,12 +13,12 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Papers
 
-#### Supervised Deep learning methods
+#### Supervised deep learning methods
 + Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang: "*DoveNet: Deep Image Harmonization via Domain Verification.*" CVPR (2020) [[pdf]](https://arxiv.org/pdf/1911.13239.pdf) [[code]](https://github.com/bcmi/Image_Harmonization_Datasets/tree/master/DoveNet).
 + Xiaodong Cun, Chi-Man Pun: "*Improving the Harmony of the Composite Image by Spatial-Separated Attention Module.*" IEEE Trans. Image Process. 29: 4759-4771 (2020) [[pdf]](https://arxiv.org/pdf/1907.06406.pdf) [[code]](https://github.com/vinthony/s2am)
 + Yi-Hsuan Tsai, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Xin Lu, Ming-Hsuan Yang: "*Deep Image Harmonization.*" CVPR (2017) [[pdf]](https://arxiv.org/pdf/1703.00069.pdf) [[code]](https://github.com/wasidennis/DeepHarmonization)
 
-#### Unsupervised Deep learning methods
+#### Unsupervised deep learning methods
 + Bor-Chun Chen, Andrew Kae: "*Toward Realistic Image Compositing With Adversarial Learning.*" CVPR (2019) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Toward_Realistic_Image_Compositing_With_Adversarial_Learning_CVPR_2019_paper.pdf)
 
 #### Traditional methods
