@@ -30,7 +30,12 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros:  "*Learning a Discriminative Model for the Perception of Realism in Composite Images.*" ICCV (2015) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhu_Learning_a_Discriminative_ICCV_2015_paper.pdf) [[code]](https://github.com/junyanz/RealismCNN)
 + Su Xue, Aseem Agarwala, Julie Dorsey, Holly E. Rushmeier:
 "*Understanding and improving the realism of image composites.*" ACM Trans. Graph. 31(4): 84:1-84:10 (2012) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.5306&rep=rep1&type=pdf)
++ Kalyan Sunkavalli, Micah K. Johnson, Wojciech Matusik, Hanspeter Pfister: "*Multi-scale image harmonization.*" ACM Trans. Graph. 29, 4 (2010) [[pdf]](http://www.kalyans.org/research/2012/Harmonization_SIG10.pdf)
++ Jue Wang, Maneesh Agrawala, Michael F. Cohen. 2007: "*Soft scissors: an interactive tool for realtime high quality matting.*" ACM Trans. Graph. 26, 3 (2007) [[pdf]](http://vis.berkeley.edu/papers/softscissors/softscissors-SIG07.pdf)
 + Jean-François Lalonde, Alexei A. Efros: "*Using Color Compatibility for Assessing Image Realism.*" ICCV (2007) [[pdf]](https://ieeexplore.ieee.org/document/4409107) [[code]](https://github.com/jflalonde/colorRealism)
++ Daniel Cohen-Or, Olga Sorkine, Ran Gal, Tommer Leyvand, Ying-Qing Xu: "*2006. Color harmonization.*" ACM Trans. Graph. 25, 3 (2006) [[pdf]](https://igl.ethz.ch/projects/color-harmonization/harmonization.pdf)
++ Jiaya Jia, Jian Sun, Chi-Keung Tang, Heung-Yeung Shum: "*Drag-and-drop pasting.*" ACM Trans. Graph. 25, 3 (2006) [[pdf]](http://jiaya.me/archive/all_project_webpages/ddp/drag-and-drop_pasting.html)
++ Patrick Pérez, Michel Gangnet, Andrew Blake: "*Poisson image editing.*" *ACM Trans. Graph.* 22, 3 (2003) [[pdf]](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 
 ## Datasets
 + **iHarmony4:**  It contains four subdatasets: HCOCO, HAdobe5k,	HFlickr, Hday2night, with a total of 73,146 pairs of unharmonized images and harmonized images. [[link]](https://github.com/bcmi/Image_Harmonization_Datasets)
