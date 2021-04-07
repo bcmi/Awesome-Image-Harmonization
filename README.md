@@ -48,5 +48,5 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Other resources
 
-
++ [Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
 
