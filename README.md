@@ -15,7 +15,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Supervised deep learning methods
-+ Wenyan Cong, Li Niu, Jianfu Zhang,  Jing Liang, Liqing Zhang: "*BargainNet: Background-Guided Domain Translation for Image Harmonization.*" ICME (2021) Oral [[pdf]](https://arxiv.org/pdf/2009.09169.pdf) [[code]](https://github.com/bcmi/BargainNet).
++ Wenyan Cong, Li Niu, Jianfu Zhang,  Jing Liang, Liqing Zhang: "*BargainNet: Background-Guided Domain Translation for Image Harmonization.*" ICME (2021) [[pdf]](https://arxiv.org/pdf/2009.09169.pdf) [[code]](https://github.com/bcmi/BargainNet).
 + Konstantin Sofiiuk, Polina Popenova, Anton Konushin: "*Foreground-aware Semantic Representations for Image Harmonization.*" WACV (2021) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Sofiiuk_Foreground-Aware_Semantic_Representations_for_Image_Harmonization_WACV_2021_paper.pdf) [[code]](https://github.com/saic-vul/image_harmonization)
 
 + Guoqing Hao, Satoshi Iizuka, Kazuhiro Fukui: "*Image Harmonization with Attention-based Deep Feature Modulation*." BMVC (2020) [[pdf]](https://www.bmvc2020-conference.com/assets/papers/0121.pdf) [[code]](https://github.com/Dominoer/bmvc2020_image_harmonization)
