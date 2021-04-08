@@ -48,8 +48,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Related topics
 
++ Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[pdf]]()
 + Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://arxiv.org/pdf/1809.01372) 
-+  Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[pdf]]()
 
 ## Other resources
 
