@@ -29,7 +29,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Bor-Chun Chen, Andrew Kae: "*Toward Realistic Image Compositing With Adversarial Learning.*" CVPR (2019) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Toward_Realistic_Image_Compositing_With_Adversarial_Learning_CVPR_2019_paper.pdf)
 
 #### Traditional methods
-+ Shuangbing Song, Fan Zhong, Xueying Qin, Changhe Tu: "*Illumination Harmonization with Gray Mean Scale.*" Advances in Computer Graphics. CGI (2020) [[pdf]]()
++ Shuangbing Song, Fan Zhong, Xueying Qin, Changhe Tu: "*Illumination Harmonization with Gray Mean Scale.*" Advances in Computer Graphics. CGI (2020) [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61864-3_17.pdf)
 + Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros:  "*Learning a Discriminative Model for the Perception of Realism in Composite Images.*" ICCV (2015) [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhu_Learning_a_Discriminative_ICCV_2015_paper.pdf) [[code]](https://github.com/junyanz/RealismCNN)
 + Su Xue, Aseem Agarwala, Julie Dorsey, Holly E. Rushmeier:
 "*Understanding and improving the realism of image composites.*" ACM Trans. Graph. 31(4): 84:1-84:10 (2012) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.5306&rep=rep1&type=pdf)
