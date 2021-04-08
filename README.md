@@ -10,6 +10,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
++ [Related Topics](#Related-topics)
 
 
 ## Papers
@@ -45,6 +46,10 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + **GMSDataset**: It contains 183 images with image resolution of 1940*1440. It consists of 16 different objects and for each object, one source image and 11 target images in different background scenes and illumination conditions are captured. [[paper]]() [[link]](https://pan.baidu.com/s/141bLd3kjw8I4L7vUhYiEnQ) (access code: ekn2)
 + **RHHarmony**: A rendered image harmonization dataset, which contains 15000 ground-truth rendered images and has the potential to generate 135000 composite rendered images. [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
 
+## Related topics
+
++ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://arxiv.org/pdf/1809.01372) 
++  Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[pdf]]()
 
 ## Other resources
 
