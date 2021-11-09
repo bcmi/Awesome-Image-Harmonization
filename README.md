@@ -7,13 +7,18 @@ A curated list of resources including papers, datasets, and relevant links perta
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 ## Table of Contents
++ [Leaderboard](#Leaderboard)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
 + [Related Topics](#Related-topics)
 
+## Leaderboard
+
+The leaderboard of SOTA image harmonization methods can be found [here](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4).
 
 ## Papers
+
 
 #### Supervised deep learning methods
 + Jun Ling, Han Xue, Li Song, Rong Xie, Xiao Gu: "*Region-Aware Adaptive Instance Normalization for Image Harmonization.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ling_Region-Aware_Adaptive_Instance_Normalization_for_Image_Harmonization_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ling_Region-Aware_Adaptive_Instance_CVPR_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2106.02853) [[code]](https://github.com/junleen/RainNet).
@@ -49,12 +54,12 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + **RHHarmony**: A rendered human harmonization dataset, which contains 15,000 ground-truth rendered images and has the potential to generate 135,000 composite rendered images. [[pdf]](https://arxiv.org/pdf/2103.17104.pdf) [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
 + **RealHM**: A Real-world HarMonization dataset, which contains 216 real composite images with manually harmonized outputs. [[pdf]](https://arxiv.org/pdf/2108.06805.pdf) [[link]](https://github.com/VITA-Group/SSHarmonization)
 
-## Related topics
+## Related Topics
 
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 + Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
 
-## Other resources
+## Other Resources
 
 + [Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
 
