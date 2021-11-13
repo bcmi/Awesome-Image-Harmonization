@@ -15,7 +15,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Leaderboard
 
-The leaderboard of SOTA image harmonization methods can be found [here](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4).
+The leaderboard of SOTA image harmonization methods can be found [here](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4#experiments).
 
 ## Papers
 
