@@ -24,6 +24,13 @@ The leaderboard of SOTA image harmonization methods can be found [here](https://
 
 ## Papers
 
+#### High-resolution image harmonization
++ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
+
+#### Image harmonization using rendered images
+
++ Wenyan Cong, Junyan Cao, Li Niu, Jianfu Zhang, Xuesong Gao, Zhiwei Tang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony)
+
 
 #### Supervised deep learning methods
 + Zonghui Guo, Dongsheng Guo, Haiyong Zheng, Zhaorui Gu, Bing Zheng, Junyu Dong: "*Image Harmonization with Transformer.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Guo_Image_Harmonization_With_ICCV_2021_supplemental.pdf) [[code]](https://github.com/zhenglab/HarmonyTransformer)
@@ -63,10 +70,16 @@ The leaderboard of SOTA image harmonization methods can be found [here](https://
 
 ## Related Topics
 
+#### Inharmonious region localization
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
-+ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
++ Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022)
 
+#### Video harmonization
++ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
++ Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*HYouTube: Video Harmonization Dataset.*" arXiv preprint arXiv:2109.08809 (2021) [[arXiv]](https://arxiv.org/pdf/2109.08809.pdf) [[dataset]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
+ 
 ## Other Resources
 
 + [Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
++ [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
 
