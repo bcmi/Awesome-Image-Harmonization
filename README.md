@@ -16,7 +16,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Online Demo
 
-Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image harmonization and have fun!
+Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for image harmonization and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
 
 ## Leaderboard
 
