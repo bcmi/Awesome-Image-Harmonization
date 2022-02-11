@@ -9,6 +9,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Table of Contents
 + [Online Demo](#Online-demo)
 + [Leaderboard](#Leaderboard)
++ [Color Transfer](#Color-transfer)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
@@ -21,6 +22,10 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 ## Leaderboard
 
 The leaderboard of SOTA image harmonization methods can be found [here](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4#experiments).
+
+## Color Transfer 
+
+We summarize different color transfer strategies which could be used for image harmonization task [here](https://github.com/bcmi/Color-Transfer-for-Image-Harmonization). 
 
 ## Papers
 
