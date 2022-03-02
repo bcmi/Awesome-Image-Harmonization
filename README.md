@@ -30,12 +30,13 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### High-resolution image harmonization
-+ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
++ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
++ Jingtang Liang, Xiaodong Cun, and Chi-Man Pun: "*Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization.*" arXiv preprint arXiv:2109.05750 (2021)  [[arXiv]](https://arxiv.org/pdf/2109.05750.pdf) [[code]](https://github.com/stefanLeong/S2CRNet)
 
 #### Image harmonization using rendered images
-
 + Wenyan Cong, Junyan Cao, Li Niu, Jianfu Zhang, Xuesong Gao, Zhiwei Tang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony)
-
++ Zhongyun Bao, Chengjiang Long, Gang Fu, Daquan Liu, Yuanzhen Li, Jiaming Wu, Chunxia Xiao: "*Scene Inference for Object Illumination Editing.*" arXiv preprint arXiv:2108.00150 (2021) [[arXiv]](https://arxiv.org/pdf/2108.00150.pdf)
++ Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*NeSF: Neural Shading Field for Image Harmonization.*" arXiv preprint arXiv:2112.01314 (2021) [[arXiv]](https://arxiv.org/pdf/2112.01314.pdf)
 
 #### Supervised deep learning methods
 + Zonghui Guo, Dongsheng Guo, Haiyong Zheng, Zhaorui Gu, Bing Zheng, Junyu Dong: "*Image Harmonization with Transformer.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Guo_Image_Harmonization_With_ICCV_2021_supplemental.pdf) [[code]](https://github.com/zhenglab/HarmonyTransformer)
