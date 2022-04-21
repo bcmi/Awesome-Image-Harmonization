@@ -82,7 +82,7 @@ We summarize different color transfer strategies which could be used for image h
 
 #### Video harmonization
 + Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
-+ Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*HYouTube: Video Harmonization Dataset.*" arXiv preprint arXiv:2109.08809 (2021) [[arXiv]](https://arxiv.org/pdf/2109.08809.pdf) [[dataset]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
++ Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[dataset]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
  
 ## Other Resources
 
