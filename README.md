@@ -29,18 +29,16 @@ We summarize different color transfer strategies which could be used for image h
 
 ## Papers
 
-#### High-resolution image harmonization
-+ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
-+ Jingtang Liang, Xiaodong Cun, and Chi-Man Pun: "*Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization.*" arXiv preprint arXiv:2109.05750 (2021)  [[arXiv]](https://arxiv.org/pdf/2109.05750.pdf) [[code]](https://github.com/stefanLeong/S2CRNet)
-
-#### Image harmonization using rendered images
-+ Wenyan Cong, Junyan Cao, Li Niu, Jianfu Zhang, Xuesong Gao, Zhiwei Tang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony)
-+ Zhongyun Bao, Chengjiang Long, Gang Fu, Daquan Liu, Yuanzhen Li, Jiaming Wu, Chunxia Xiao: "*Scene Inference for Object Illumination Editing.*" arXiv preprint arXiv:2108.00150 (2021) [[arXiv]](https://arxiv.org/pdf/2108.00150.pdf)
-+ Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*NeSF: Neural Shading Field for Image Harmonization.*" arXiv preprint arXiv:2112.01314 (2021) [[arXiv]](https://arxiv.org/pdf/2112.01314.pdf)
-
 #### Supervised deep learning methods
+
++ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) (**high-resolution**)
++ Zhongyun Bao, Chengjiang Long, Gang Fu, Daquan Liu, Yuanzhen Li, Jiaming Wu, Chunxia Xiao: "*Deep Image-based Illumination Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2108.00150.pdf) (**rendered images**)
++ Yucheng Hang, Bin Xia, Wenming Yang, Qingmin Liao: "*SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2204.13962.pdf) [[code]](https://github.com/YCHang686/SCS-Co-CVPR2022)
++ Jingtang Liang, Xiaodong Cun, and Chi-Man Pun: "*Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization.*" arXiv preprint arXiv:2109.05750 (2021)  [[arXiv]](https://arxiv.org/pdf/2109.05750.pdf) [[code]](https://github.com/stefanLeong/S2CRNet) (**high-resolution**)
++ Wenyan Cong, Junyan Cao, Li Niu, Jianfu Zhang, Xuesong Gao, Zhiwei Tang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony) (**rendered images**)
++ Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*NeSF: Neural Shading Field for Image Harmonization.*" arXiv preprint arXiv:2112.01314 (2021) [[arXiv]](https://arxiv.org/pdf/2112.01314.pdf) (**rendered images**)
 + Zonghui Guo, Dongsheng Guo, Haiyong Zheng, Zhaorui Gu, Bing Zheng, Junyu Dong: "*Image Harmonization with Transformer.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Image_Harmonization_With_Transformer_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Guo_Image_Harmonization_With_ICCV_2021_supplemental.pdf) [[code]](https://github.com/zhenglab/HarmonyTransformer)
-+ Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang:"*SSH: A Self-Supervised Framework for Image Harmonization.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_SSH_A_Self-Supervised_Framework_for_Image_Harmonization_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Jiang_SSH_A_Self-Supervised_ICCV_2021_supplemental.pdf) [[arXiv]](https://arxiv.org/pdf/2108.06805.pdf) [[code]](https://github.com/VITA-Group/SSHarmonization)
++ Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang: "*SSH: A Self-Supervised Framework for Image Harmonization.*" ICCV (2021) [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_SSH_A_Self-Supervised_Framework_for_Image_Harmonization_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Jiang_SSH_A_Self-Supervised_ICCV_2021_supplemental.pdf) [[arXiv]](https://arxiv.org/pdf/2108.06805.pdf) [[code]](https://github.com/VITA-Group/SSHarmonization)
 + Jun Ling, Han Xue, Li Song, Rong Xie, Xiao Gu: "*Region-Aware Adaptive Instance Normalization for Image Harmonization.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ling_Region-Aware_Adaptive_Instance_Normalization_for_Image_Harmonization_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ling_Region-Aware_Adaptive_Instance_CVPR_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2106.02853) [[code]](https://github.com/junleen/RainNet)
 + Zonghui Guo, Haiyong Zheng, Yufeng Jiang, Zhaorui Gu, Bing Zheng: "*Intrinsic Image Harmonization.*" CVPR (2021) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Guo_Intrinsic_Image_Harmonization_CVPR_2021_supplemental.pdf) [[code]](https://github.com/zhenglab/IntrinsicHarmony)
 + Wenyan Cong, Li Niu, Jianfu Zhang,  Jing Liang, Liqing Zhang: "*BargainNet: Background-Guided Domain Translation for Image Harmonization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2009.09169) [[code]](https://github.com/bcmi/BargainNet)
@@ -76,13 +74,17 @@ We summarize different color transfer strategies which could be used for image h
 
 ## Related Topics
 
+#### Painterly harmonization
++ Hwai-Jin Peng, Chia-Ming Wang, Yu-Chiang Frank Wang: "*Element-Embedded Style Transfer Networks for Style Harmonization.*" BMVC (2019) [[paper]](https://bcmi.sjtu.edu.cn/~niuli/paper/Element-Embedded_Style_Transfer_Networks.pdf)
++ Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala: "*Deep Painterly Harmonization.*"  Computer graphics forum (2018) [[arXiv]](https://arxiv.org/pdf/1804.03189.pdf?ref=https://githubhelp.com) [[code]](https://github.com/luanfujun/deep-painterly-harmonization)
+
 #### Inharmonious region localization
-+ Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 + Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022)
++ Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 
 #### Video harmonization
++ Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[arXiv]](https://arxiv.org/pdf/2205.00687.pdf) [[dataset&code]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
 + Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
-+ Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[dataset]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
  
 ## Other Resources
 
