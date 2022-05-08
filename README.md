@@ -31,9 +31,10 @@ We summarize different color transfer strategies which could be used for image h
 
 #### Supervised deep learning methods
 
-+ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) (**high-resolution**)
++ Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) (**high-resolution**) 
 + Zhongyun Bao, Chengjiang Long, Gang Fu, Daquan Liu, Yuanzhen Li, Jiaming Wu, Chunxia Xiao: "*Deep Image-based Illumination Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2108.00150.pdf) (**rendered images**)
 + Yucheng Hang, Bin Xia, Wenming Yang, Qingmin Liao: "*SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2204.13962.pdf) [[code]](https://github.com/YCHang686/SCS-Co-CVPR2022)
++ Ziyue Zhu, Zhao Zhang, Zheng Lin, Ruiqi Wu, Chunle Guo: "*Image Harmonization by Matching Regional References.*" arXiv preprint arXiv:2204.04715 (2022) [[arXiv]](https://arxiv.org/pdf/2204.04715.pdf) 
 + Jingtang Liang, Xiaodong Cun, and Chi-Man Pun: "*Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization.*" arXiv preprint arXiv:2109.05750 (2021)  [[arXiv]](https://arxiv.org/pdf/2109.05750.pdf) [[code]](https://github.com/stefanLeong/S2CRNet) (**high-resolution**)
 + Wenyan Cong, Junyan Cao, Li Niu, Jianfu Zhang, Xuesong Gao, Zhiwei Tang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" arXiv preprint arXiv:2109.06671 (2021) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony) (**rendered images**)
 + Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*NeSF: Neural Shading Field for Image Harmonization.*" arXiv preprint arXiv:2112.01314 (2021) [[arXiv]](https://arxiv.org/pdf/2112.01314.pdf) (**rendered images**)
