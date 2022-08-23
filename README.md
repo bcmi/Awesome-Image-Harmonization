@@ -30,7 +30,9 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
-
++ Xuqian Ren, Yifan Liu: "*Semantic-guided Multi-Mask Image Harmonization.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.11722.pdf) [[code]](https://github.com/XuqianRen/Semantic-guided-Multi-mask-Image-Harmonization)
++ Zhanghan Ke, Chunyi Sun, Lei Zhu, Ke Xu, Rynson W.H. Lau: "*Harmonizer: Learning to Perform White-Box Image and Video Harmonization.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.01322.pdf) [[code]](https://github.com/ZHKKKe/Harmonizer)
++ Jeya Maria Jose Valanarasu, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Jose Echevarria, Yinglan Ma, Zijun Wei, Kalyan Sunkavalli, Vishal M. Patel: "*Interactive Portrait Harmonization.*" arXiv preprint arXiv:2203.08216 (2022) [[arXiv]](https://arxiv.org/pdf/2203.08216.pdf)
 + Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang: "*High-Resolution Image Harmonization via Collaborative Dual Transformations.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2109.06671.pdf) [[dataset]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) (**high-resolution**) 
 + Zhongyun Bao, Chengjiang Long, Gang Fu, Daquan Liu, Yuanzhen Li, Jiaming Wu, Chunxia Xiao: "*Deep Image-based Illumination Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2108.00150.pdf) (**rendered images**)
 + Yucheng Hang, Bin Xia, Wenming Yang, Qingmin Liao: "*SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization.*" CVPR (2022) [[arXiv]](https://arxiv.org/pdf/2204.13962.pdf) [[code]](https://github.com/YCHang686/SCS-Co-CVPR2022)
