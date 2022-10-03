@@ -83,7 +83,7 @@ We summarize different color transfer strategies which could be used for image h
 
 #### Inharmonious region localization
 + Penghao Wu, Li Niu, Liqing Zhang: "*Inharmonious Region Localization with Auxiliary Style Feature.*" BMVC (2022)
-+ Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022) [[code]](https://github.com/bcmi/MadisNet-Inharmonious-Region-Localization)
++ Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022) [[arXiv]](https://arxiv.org/pdf/2209.15368.pdf) [[code]](https://github.com/bcmi/MadisNet-Inharmonious-Region-Localization)
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 
 #### Video harmonization
