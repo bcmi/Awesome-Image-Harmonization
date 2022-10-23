@@ -30,6 +30,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Ben Xue, Shenghui Ran, Quan Chen, Rongfei Jia, Binqiang Zhao, Binqiang Zhao: "*DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.04788.pdf) [[code]](https://github.com/rockeyben/DCCF)
 + Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang, Tao Wang, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin: "*FRIH: Fine-grained Region-aware Image Harmonization.*" arXiv preprint arXiv:2205.06448 (2022) [[arXiv]](https://arxiv.org/pdf/2205.06448.pdf)
 + Junyan Cao, Wenyan Cong, Li Niu, Jianfu Zhang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" BMVC (2022) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony) (**rendered images**)
 + Zonghui Guo, Zhaorui Gu, Bing Zheng, Junyu Dong, Haiyong Zheng: "*Transformer for Image Harmonization and Beyond.*" T-PAMI (2022) [[pdf]](https://ieeexplore.ieee.org/abstract/document/9893399) 
