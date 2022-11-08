@@ -18,7 +18,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Survey
 
-A brief review on object shadow generation can be found in the following survey on image composition:
+A brief review on image harmonization can be found in the following survey on image composition:
 
 Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
 
@@ -85,7 +85,7 @@ We summarize different color transfer strategies which could be used for image h
 
 ## Related Topics
 
-#### Painterly harmonization
+#### Painterly image harmonization
 + Hwai-Jin Peng, Chia-Ming Wang, Yu-Chiang Frank Wang: "*Element-Embedded Style Transfer Networks for Style Harmonization.*" BMVC (2019) [[paper]](https://bcmi.sjtu.edu.cn/~niuli/paper/Element-Embedded_Style_Transfer_Networks.pdf)
 + Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala: "*Deep Painterly Harmonization.*"  Computer graphics forum (2018) [[arXiv]](https://arxiv.org/pdf/1804.03189.pdf?ref=https://githubhelp.com) [[code]](https://github.com/luanfujun/deep-painterly-harmonization)
 
