@@ -37,6 +37,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite Photograph Harmonization with Complete Background Cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548031)
 + Ben Xue, Shenghui Ran, Quan Chen, Rongfei Jia, Binqiang Zhao, Binqiang Zhao: "*DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.04788.pdf) [[code]](https://github.com/rockeyben/DCCF)
 + Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang, Tao Wang, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin: "*FRIH: Fine-grained Region-aware Image Harmonization.*" arXiv preprint arXiv:2205.06448 (2022) [[arXiv]](https://arxiv.org/pdf/2205.06448.pdf)
 + Junyan Cao, Wenyan Cong, Li Niu, Jianfu Zhang, Liqing Zhang: "*Deep Image Harmonization by Bridging the Reality Gap.*" BMVC (2022) [[arXiv]](https://arxiv.org/pdf/2103.17104.pdf) [[dataset]](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony) (**rendered images**)
@@ -85,7 +86,9 @@ We summarize different color transfer strategies which could be used for image h
 
 ## Related Topics
 
-#### Painterly image harmonization
+#### Painterly/Style image harmonization
++ Junyan Cao, Yan Hong, Li Niu: "*Painterly Image Harmonization in Dual Domains.*" AAAI (2023) [[code]](https://github.com/bcmi/PHDNet-Painterly-Image-Harmonization)
++ Xiao Yan, Yang Lu, Juncheng Shuai, Sanyuan Zhang: "*Style Image Harmonization via Global-Local Style Mutual Guided.*" ACCV (2022) [[paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Yan_Style_Image_Harmonization_via_Global-Local_Style_Mutual_Guided_ACCV_2022_paper.pdf)
 + Hwai-Jin Peng, Chia-Ming Wang, Yu-Chiang Frank Wang: "*Element-Embedded Style Transfer Networks for Style Harmonization.*" BMVC (2019) [[paper]](https://bcmi.sjtu.edu.cn/~niuli/paper/Element-Embedded_Style_Transfer_Networks.pdf)
 + Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala: "*Deep Painterly Harmonization.*"  Computer graphics forum (2018) [[arXiv]](https://arxiv.org/pdf/1804.03189.pdf?ref=https://githubhelp.com) [[code]](https://github.com/luanfujun/deep-painterly-harmonization)
 
