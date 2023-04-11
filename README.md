@@ -37,6 +37,10 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Jianqi Chen, Yilan Zhang, Zhengxia Zou, Keyan Chen, Zhenwei Shi: "*Dense Pixel-to-Pixel Harmonization via Continuous Image Representation.*" arXiv preprint arXiv:2303.01681 (2023) [[arXiv]](https://arxiv.org/pdf/2303.01681.pdf) [[code]](https://github.com/WindVChen/INR-Harmonization)
++ Haoxing Chen, Zhangxuan Gu, Yaohui Li, Jun Lan, Changhua Meng, Weiqiang Wang, Huaxiong Li: "*Hierarchical Dynamic Image Harmonization.*" arXiv preprint arXiv:2211.08639 (2022) [[arXiv]](https://arxiv.org/pdf/2211.08639.pdf) [[code]](https://github.com/chenhaoxing/HDNet)
++ Xun Cai, Qingjie Shi, Yanbo Gao, Shuai Li, Wei Hua, Tian Xie: "*A Structure-Preserving and Illumination-Consistent Cycle Framework for Image Harmonization.*" T-MM (2022) [[pdf]](https://ieeexplore.ieee.org/abstract/document/10078341)
++ Tianyanshi Liu, Yuhang Li, Youdong Ding: "*Image harmonization with spatial feature interaction and back-projection upsample.*" CISAI (2022) [[pdf]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12566/1256626/Image-harmonization-with-spatial-feature-interaction-and-back-projection-upsample/10.1117/12.2667660.full?SSO=1)
 + Yazhou Xing, Yu Li, Xintao Wang, Ye Zhu, Qifeng Chen: "*Composite Photograph Harmonization with Complete Background Cues.*" ACM MM (2022) [[pdf]](https://dl.acm.org/doi/abs/10.1145/3503161.3548031)
 + Ben Xue, Shenghui Ran, Quan Chen, Rongfei Jia, Binqiang Zhao, Binqiang Zhao: "*DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization.*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.04788.pdf) [[code]](https://github.com/rockeyben/DCCF)
 + Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang, Tao Wang, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin: "*FRIH: Fine-grained Region-aware Image Harmonization.*" arXiv preprint arXiv:2205.06448 (2022) [[arXiv]](https://arxiv.org/pdf/2205.06448.pdf)
