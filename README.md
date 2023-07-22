@@ -37,6 +37,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Jianqi Chen, Yilan Zhang, Zhengxia Zou, Keyan Chen, Zhenwei Shi: "*Dense Pixel-to-Pixel Harmonization via Continuous Image Representation.*" arXiv preprint arXiv:2303.01681 (2023)  [[arXiv]](https://arxiv.org/pdf/2303.01681.pdf) [[code]](https://github.com/WindVChen/INR-Harmonization)
 + Ke Wang, Michaël Gharbi, He Zhang, Zhihao Xia, Eli Shechtman: "*Semi-supervised Parametric Real-world Image Harmonization.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2303.00157.pdf) [[code]](https://github.com/adobe/PIH/)
 + Sheng Liu, Cong Phuoc Huynh, Cong Chen, Maxim Arap, Raffay Hamid: "*LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization.*" CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_LEMaRT_Label-Efficient_Masked_Region_Transform_for_Image_Harmonization_CVPR_2023_paper.pdf)
 + Julian Jorge Andrade Guerreiro, Mitsuru Nakazawa, Björn Stenger: "*PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations.*" CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Guerreiro_PCT-Net_Full_Resolution_CVPR_2023_supplemental.pdf) [[code]](https://github.com/rakutentech/PCT-Net-Image-Harmonization/)
