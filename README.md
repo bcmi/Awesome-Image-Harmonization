@@ -37,6 +37,10 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Linfeng Tan, Jiangtong Li, Li Niu, Liqing Zhang: "*Deep Image Harmonization in Dual Color Spaces.*" ACM MM (2023)
++ Xintian Shen, Jiangning Zhang, Jun Chen, Shipeng Bai, Yue Han, Yabiao Wang, Chengjie Wang, Yong Liu: "*Learning Global-aware Kernel for Image Harmonization.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2305.11676.pdf) 
++ Li Niu, Junyan Cao, Wenyan Cong, Liqing Zhang: "*Deep Image Harmonization with Learnable Augmentation.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2308.00376.pdf) [[code]](https://github.com/bcmi/SycoNet-Adaptive-Image-Harmonization)
++ Li Niu, Linfeng Tan, Xinhao Tao, Junyan Cao, Fengjun Guo, Teng Long, Liqing Zhang: "*Deep Image Harmonization with Globally Guided Feature Transformation and Relation Distillation.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2308.00356.pdf) [[dataset]](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
 + Jianqi Chen, Yilan Zhang, Zhengxia Zou, Keyan Chen, Zhenwei Shi: "*Dense Pixel-to-Pixel Harmonization via Continuous Image Representation.*" arXiv preprint arXiv:2303.01681 (2023)  [[arXiv]](https://arxiv.org/pdf/2303.01681.pdf) [[code]](https://github.com/WindVChen/INR-Harmonization)
 + Ke Wang, Michaël Gharbi, He Zhang, Zhihao Xia, Eli Shechtman: "*Semi-supervised Parametric Real-world Image Harmonization.*" CVPR (2023) [[arXiv]](https://arxiv.org/pdf/2303.00157.pdf) [[code]](https://github.com/adobe/PIH/)
 + Sheng Liu, Cong Phuoc Huynh, Cong Chen, Maxim Arap, Raffay Hamid: "*LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization.*" CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_LEMaRT_Label-Efficient_Masked_Region_Transform_for_Image_Harmonization_CVPR_2023_paper.pdf)
@@ -89,6 +93,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Related Topics
 
 #### Painterly/Style image harmonization
++ Lingxiao Lu, Jiangtong Li, Junyan Cao, Li Niu, Liqing Zhang: "*Painterly Image Harmonization using Diffusion Model.*" ACM MM (2023)
 + Junyan Cao, Yan Hong, Li Niu: "*Painterly Image Harmonization in Dual Domains.*" AAAI (2023) [[code]](https://github.com/bcmi/PHDNet-Painterly-Image-Harmonization)
 + Xiao Yan, Yang Lu, Juncheng Shuai, Sanyuan Zhang: "*Style Image Harmonization via Global-Local Style Mutual Guided.*" ACCV (2022) [[paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Yan_Style_Image_Harmonization_via_Global-Local_Style_Mutual_Guided_ACCV_2022_paper.pdf)
 + Hwai-Jin Peng, Chia-Ming Wang, Yu-Chiang Frank Wang: "*Element-Embedded Style Transfer Networks for Style Harmonization.*" BMVC (2019) [[paper]](https://bcmi.sjtu.edu.cn/~niuli/paper/Element-Embedded_Style_Transfer_Networks.pdf)
