@@ -37,6 +37,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Haoxing Chen, Zhangxuan Gu, Yaohui Li, Jun Lan, Changhua Meng, Weiqiang Wang, Huaxiong Li: "*Hierarchical Dynamic Image Harmonization.*" ACM MM (2023) [[arXiv]](https://arxiv.org/pdf/2211.08639.pdf) [[code]](https://github.com/chenhaoxing/HDNet)
 + Linfeng Tan, Jiangtong Li, Li Niu, Liqing Zhang: "*Deep Image Harmonization in Dual Color Spaces.*" ACM MM (2023)
 + Xintian Shen, Jiangning Zhang, Jun Chen, Shipeng Bai, Yue Han, Yabiao Wang, Chengjie Wang, Yong Liu: "*Learning Global-aware Kernel for Image Harmonization.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2305.11676.pdf) 
 + Li Niu, Junyan Cao, Wenyan Cong, Liqing Zhang: "*Deep Image Harmonization with Learnable Augmentation.*" ICCV (2023) [[arXiv]](https://arxiv.org/pdf/2308.00376.pdf) [[code]](https://github.com/bcmi/SycoNet-Adaptive-Image-Harmonization)
