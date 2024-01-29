@@ -40,7 +40,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
-
++ Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*SIDNet: Learning Shading-Aware Illumination Descriptor for Image Harmonization.*" IEEE Transactions on Emerging Topics in Computational Intelligence (2024) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10411924)
 + Haoxing Chen, Yaohui Li, Zhangxuan Gu, Zhuoer Xu, Jun Lan, Huaxiong Li: "*Segment Anything Model Meets Image Harmonization.*" ICASSP (2024). [[arXiv]](https://arxiv.org/pdf/2312.12729.pdf)
 + Zhongyun Hu, Jiahao Li, Xue Wang, Qing Wang: "*Spatially-Varying Illumination-Aware Indoor Harmonization.*" arXiv (2024) [[arXiv]](http://www.npu-cvpg.org/uploads/file/24_01_05_02_57_01_603.pdf)
 + Jianqi Chen, Zhengxia Zou, Yilan Zhang, Keyan Chen, Zhenwei Shi: "*Zero-Shot Image Harmonization with Generative Model Prior.*" arXiv preprint arXiv:2307.08182 (2023) [[arXiv]](https://arxiv.org/pdf/2307.08182.pdf) [[code]](https://github.com/WindVChen/Diff-Harmonization)
@@ -116,6 +116,7 @@ We summarize different color transfer strategies which could be used for image h
 + Li Niu, Yan Hong, Junyan Cao, Liqing Zhang: "*Progressive Painterly Image Harmonization from Low-level Styles to High-level Styles.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2312.10264.pdf) [[code]](https://github.com/bcmi/ProPIH-Painterly-Image-Harmonization)
 + Xudong Wang, Li Niu, Junyan Cao, Yan Hong, Liqing Zhang: "*Painterly Image Harmonization via Adversarial Residual Learning.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Painterly_Image_Harmonization_via_Adversarial_Residual_Learning_WACV_2024_paper.pdf)
 + Ruibin Li, Jingcai Guo, Song Guo, Qihua Zhou, Jie Zhang: "FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model." arXiv preprint arXiv:2311.14926 (2023) [[arXiv]](https://arxiv.org/pdf/2311.14926.pdf)
++ Xiao Zhang, Yun Jiang, Shanshan Wang: "*Adaptive Convolution Kernel for Painterly Image Harmonization.*" ICIDIT (2023) [[arXiv]](https://www.atlantis-press.com/article/125992858.pdf)
 + Sungho Kang , Hyunkyu Park, YeongHyeon Park, Yeonho Lee , Hanbyul Lee, Seho Bae, Juneho Yi: "*Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting.*" ICKII (2023) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10332789&casa_token=dvMSvpjcY2IAAAAA:nNBqSi_l1XB_wKqdFQDA8en5_q1c2nC8mnxWBxpq0mA1uhGthFFMOUHV0Ce4cKmOa0vDrcQK&tag=1)
 + Juwon Lee, Jung-Jae Yu, Wonyoung Yoo: "*An Interactive System for Painterly Image Harmonization.*" ICTC (2023) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10392517&casa_token=xxhQ_zyZxJYAAAAA:F_8R5AtK_N2aEgPwb161ohlBhmpSdqXhJ6sOl4kjOJ0-ia6GYC4sHeLAyak60wOYpiOb5En8)
 + Lingxiao Lu, Jiangtong Li, Junyan Cao, Li Niu, Liqing Zhang: "*Painterly Image Harmonization using Diffusion Model.*" ACM MM (2023) [[arXiv]](https://arxiv.org/pdf/2308.02228.pdf) [[code]](https://github.com/bcmi/PHDiffusion-Painterly-Image-Harmonization) 
@@ -131,6 +132,7 @@ We summarize different color transfer strategies which could be used for image h
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 
 #### Video harmonization
++ Xiuwen Chen, Li Fang, Long Ye, Qin Zhang: "*Deep Video Harmonization by Improving Spatial-temporal Consistency.*" Machine Intelligence Research (2024) [[pdf]](https://link.springer.com/article/10.1007/s11633-023-1447-3)
 + Zeyu Xiao, Yurui Zhu, Xueyang Fu, Zhiwei Xiong: "*TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf)
 + Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[arXiv]](https://arxiv.org/pdf/2205.00687.pdf) [[dataset&code]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
 + Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
