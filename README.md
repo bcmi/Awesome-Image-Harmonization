@@ -1,6 +1,10 @@
 # Awesome Image Harmonization  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to image harmonization.
+A curated list of resources including papers, datasets, and relevant links pertaining to image harmonization. **Image harmonization aims to adjust the color, illumination, and style of foreground to be compatible with the background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+
+<p align='center'>  
+  <img src='./figures/task.jpg'  width=50% />
+</p>
 
 ## Contributing
 
