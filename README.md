@@ -3,7 +3,7 @@
 A curated list of resources including papers, datasets, and relevant links pertaining to image harmonization. **Image harmonization aims to adjust the color, illumination, and style of foreground to be compatible with the background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
 
 <p align='center'>  
-  <img src='./figures/task.jpg'  width=50% />
+  <img src='./figures/task.jpg'  width=60% />
 </p>
 
 ## Contributing
@@ -24,7 +24,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 A brief review on image harmonization is included in the following survey on image composition:
 
-Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
+Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf) [[slides]](https://www.ustcnewly.com/download/Image_composition_tutorial.pdf)
 
 ## Online Demo
 
@@ -32,7 +32,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 
 ## Leaderboard
 
-The leaderboard of SOTA image harmonization methods can be found [here](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4#experiments).
+The leaderboard of SOTA image harmonization methods can be found [here](https://paperswithcode.com/sota/image-harmonization-on-iharmony4).
 
 ## Color Transfer 
 
