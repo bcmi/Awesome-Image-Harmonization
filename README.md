@@ -41,6 +41,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang: "FRIH: Fine-Grained Region-Aware Image Harmonization." AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28246/28487) 
 + Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*SIDNet: Learning Shading-Aware Illumination Descriptor for Image Harmonization.*" IEEE Transactions on Emerging Topics in Computational Intelligence (2024) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10411924)
 + Haoxing Chen, Yaohui Li, Zhangxuan Gu, Zhuoer Xu, Jun Lan, Huaxiong Li: "*Segment Anything Model Meets Image Harmonization.*" ICASSP (2024). [[arXiv]](https://arxiv.org/pdf/2312.12729.pdf)
 + Zhongyun Hu, Jiahao Li, Xue Wang, Qing Wang: "*Spatially-Varying Illumination-Aware Indoor Harmonization.*" arXiv (2024) [[arXiv]](http://www.npu-cvpg.org/uploads/file/24_01_05_02_57_01_603.pdf)
