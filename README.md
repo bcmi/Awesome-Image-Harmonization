@@ -3,7 +3,7 @@
 A curated list of resources including papers, datasets, and relevant links pertaining to image harmonization. **Image harmonization aims to adjust the color, illumination, and style of foreground to be compatible with the background.** For more complete resources on general image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
 
 <p align='center'>  
-  <img src='./figures/task.jpg'  width=60% />
+  <img src='./figures/task2.jpg'  width=90% />
 </p>
 
 ## Contributing
@@ -41,7 +41,8 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
-+ Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang: "FRIH: Fine-Grained Region-Aware Image Harmonization." AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28246/28487) 
++ Xinhao Tao, Tianyuan Qiu, Junyan Cao, Li Niu: "*Diverse Image Harmonization.*" arXiv preprint arXiv:2407.15481 (2024) [[arXiv]](https://arxiv.org/pdf/2407.15481)
++ Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang: "*FRIH: Fine-Grained Region-Aware Image Harmonization.*" AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28246/28487) 
 + Zhongyun Hu, Ntumba Elie Nsampi, Xue Wang, Qing Wang: "*SIDNet: Learning Shading-Aware Illumination Descriptor for Image Harmonization.*" IEEE Transactions on Emerging Topics in Computational Intelligence (2024) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10411924)
 + Haoxing Chen, Yaohui Li, Zhangxuan Gu, Zhuoer Xu, Jun Lan, Huaxiong Li: "*Segment Anything Model Meets Image Harmonization.*" ICASSP (2024). [[arXiv]](https://arxiv.org/pdf/2312.12729.pdf)
 + Zhongyun Hu, Jiahao Li, Xue Wang, Qing Wang: "*Spatially-Varying Illumination-Aware Indoor Harmonization.*" arXiv (2024) [[arXiv]](http://www.npu-cvpg.org/uploads/file/24_01_05_02_57_01_603.pdf)
@@ -109,6 +110,7 @@ We summarize different color transfer strategies which could be used for image h
 + **RdHarmony**: A rendered image harmonization dataset, which contains 25,000 ground-truth rendered images with 11 novel categories, and has the potential to generate 225,000 composite rendered images. [[pdf]](https://arxiv.org/pdf/2103.17104.pdf) [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
 + **RealHM**: A Real-world HarMonization dataset, which contains 216 real composite images with manually harmonized outputs. [[pdf]](https://arxiv.org/pdf/2108.06805.pdf) [[link]](https://github.com/VITA-Group/SSHarmonization)
 + **ccHarmony**: An image harmonization dataset constructed based on the images captured with color checker (cc). It contains 10 synthetic composite images for each of 426 foregrounds from 350 real images, leading to 4260 pairs of synthetic composite images and ground-truth real images. [[pdf]](https://arxiv.org/pdf/2206.00800.pdf) [[link]](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
++ **Arto**: A painterly harmonization dataset, which contains 33,294 artistic/painterly objects in artistic images with accurate object masks. Each painterly object is associated with a set of similar photographic objects. [[pdf]](https://arxiv.org/pdf/2312.10263.pdf) [[code]](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)
 
 ## Related Topics
 
@@ -134,6 +136,7 @@ We summarize different color transfer strategies which could be used for image h
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 
 #### Video harmonization
++ Zonghui Guo, Xinyu Han, Jie Zhang, Shiguang Shan, Haiyong Zheng: "*Video Harmonization with Triplet Spatio-Temporal Variation Patterns.*" CVPR (2024) [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Video_Harmonization_with_Triplet_Spatio-Temporal_Variation_Patterns_CVPR_2024_paper.pdf) [[code]](https://github.com/zhenglab/VideoTripletTransformer)
 + Xiuwen Chen, Li Fang, Long Ye, Qin Zhang: "*Deep Video Harmonization by Improving Spatial-temporal Consistency.*" Machine Intelligence Research (2024) [[pdf]](https://link.springer.com/article/10.1007/s11633-023-1447-3)
 + Zeyu Xiao, Yurui Zhu, Xueyang Fu, Zhiwei Xiong: "*TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf)
 + Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[arXiv]](https://arxiv.org/pdf/2205.00687.pdf) [[dataset&code]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
