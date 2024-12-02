@@ -41,7 +41,11 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
-+ Quanling Meng, Qinglin Liu, Zonglin Li, Xiangyuan Lan, Shengping Zhang, Liqiang Nie: "*High-Resolution Image Harmonization with Adaptive-Interval Color Transformation.*" NeurIPs (2024) [[pdf]](https://openreview.net/pdf?id=jXgHEwtXs8) [[code]](https://github.com/aipixel/AICT)
++ Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
++ Jing Zhou, Ziqi Yu, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*Foreground Harmonization and Shadow Generation for Composite Image.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
++ Pengfei Zhou, Fangxiang Feng, Guang Liu, Ruifan Li, Xiaojie Wang: "*DiffHarmony++: Enhancing Image Harmonization with Harmony-VAE and Inverse Harmonization Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681466) [[code]](https://github.com/nicecv/DiffHarmony) 
++ Pengfei Zhou, Fangxiang Feng, Xiaojie Wan: "*DiffHarmony: Latent Diffusion Model Meets Image Harmonization.*" ICMR (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657616) [[code]](https://github.com/nicecv/DiffHarmony)
++ Quanling Meng, Qinglin Liu, Zonglin Li, Xiangyuan Lan, Shengping Zhang, Liqiang Nie: "*High-Resolution Image Harmonization with Adaptive-Interval Color Transformation.*" NeurIPS (2024) [[pdf]](https://openreview.net/pdf?id=jXgHEwtXs8) [[code]](https://github.com/aipixel/AICT)
 + Mengwei Ren, Wei Xiong, Jae Shin Yoon, Zhixin Shu, Jianming Zhang, HyunJoon Jung, Guido Gerig, He Zhang: "*Relightful Harmonization: Lighting-aware Portrait Background Replacement.*" CVPR (2024) [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Relightful_Harmonization_Lighting-aware_Portrait_Background_Replacement_CVPR_2024_paper.pdf)
 + Xinhao Tao, Tianyuan Qiu, Junyan Cao, Li Niu: "*Diverse Image Harmonization.*" arXiv preprint arXiv:2407.15481 (2024) [[arXiv]](https://arxiv.org/pdf/2407.15481)
 + Jinlong Peng, Zekun Luo, Liang Liu, Boshen Zhang: "*FRIH: Fine-Grained Region-Aware Image Harmonization.*" AAAI (2024) [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28246/28487) 
@@ -117,11 +121,10 @@ We summarize different color transfer strategies which could be used for image h
 ## Related Topics
 
 #### Painterly/Style image harmonization
-
++ Ruibin Li, Jingcai Guo, Song Guo, Qihua Zhou, Jie Zhang: "FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model." ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3680780)
 + Li Niu, Junyan Cao, Yan Hong, Liqing Zhang: "*Painterly Image Harmonization by Learning from Painterly Objects.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2312.10263.pdf) [[code]](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)
 + Li Niu, Yan Hong, Junyan Cao, Liqing Zhang: "*Progressive Painterly Image Harmonization from Low-level Styles to High-level Styles.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2312.10264.pdf) [[code]](https://github.com/bcmi/ProPIH-Painterly-Image-Harmonization)
 + Xudong Wang, Li Niu, Junyan Cao, Yan Hong, Liqing Zhang: "*Painterly Image Harmonization via Adversarial Residual Learning.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Painterly_Image_Harmonization_via_Adversarial_Residual_Learning_WACV_2024_paper.pdf)
-+ Ruibin Li, Jingcai Guo, Song Guo, Qihua Zhou, Jie Zhang: "FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model." arXiv preprint arXiv:2311.14926 (2023) [[arXiv]](https://arxiv.org/pdf/2311.14926.pdf)
 + Xiao Zhang, Yun Jiang, Shanshan Wang: "*Adaptive Convolution Kernel for Painterly Image Harmonization.*" ICIDIT (2023) [[arXiv]](https://www.atlantis-press.com/article/125992858.pdf)
 + Sungho Kang , Hyunkyu Park, YeongHyeon Park, Yeonho Lee , Hanbyul Lee, Seho Bae, Juneho Yi: "*Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting.*" ICKII (2023) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10332789&casa_token=dvMSvpjcY2IAAAAA:nNBqSi_l1XB_wKqdFQDA8en5_q1c2nC8mnxWBxpq0mA1uhGthFFMOUHV0Ce4cKmOa0vDrcQK&tag=1)
 + Juwon Lee, Jung-Jae Yu, Wonyoung Yoo: "*An Interactive System for Painterly Image Harmonization.*" ICTC (2023) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10392517&casa_token=xxhQ_zyZxJYAAAAA:F_8R5AtK_N2aEgPwb161ohlBhmpSdqXhJ6sOl4kjOJ0-ia6GYC4sHeLAyak60wOYpiOb5En8)
@@ -138,6 +141,7 @@ We summarize different color transfer strategies which could be used for image h
 + Jing Liang, Li Niu, Liqing Zhang: "*Inharmonious Region Localization.*" ICME (2021) [[arXiv]](https://arxiv.org/abs/2104.09453) [[code]](https://github.com/bcmi/DIRL) 
 
 #### Video harmonization
++ Yuhang Li, Jincen Jiang, Xiaosong Yang, Youdong Ding, Jian Jun Zhang: "*Harmony Everything! Masked Autoencoders for Video Harmonization.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3680800)
 + Zonghui Guo, Xinyu Han, Jie Zhang, Shiguang Shan, Haiyong Zheng: "*Video Harmonization with Triplet Spatio-Temporal Variation Patterns.*" CVPR (2024) [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Video_Harmonization_with_Triplet_Spatio-Temporal_Variation_Patterns_CVPR_2024_paper.pdf) [[code]](https://github.com/zhenglab/VideoTripletTransformer)
 + Xiuwen Chen, Li Fang, Long Ye, Qin Zhang: "*Deep Video Harmonization by Improving Spatial-temporal Consistency.*" Machine Intelligence Research (2024) [[pdf]](https://link.springer.com/article/10.1007/s11633-023-1447-3)
 + Zeyu Xiao, Yurui Zhu, Xueyang Fu, Zhiwei Xiong: "*TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf)
