@@ -110,13 +110,21 @@ We summarize different color transfer strategies which could be used for image h
 
 
 ## Datasets
+### Real images
 + **iHarmony4**: It contains four subdatasets: HCOCO, HAdobe5k,	HFlickr, Hday2night, with a total of 73,146 pairs of unharmonized images and harmonized images. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cong_DoveNet_Deep_Image_Harmonization_via_Domain_Verification_CVPR_2020_paper.pdf) [[link]](https://github.com/bcmi/Image_Harmonization_Datasets)
 + **GMSDataset**: It contains 183 images with image resolution of 1940*1440. It consists of 16 different objects and for each object, one source image and 11 target images in different background scenes and illumination conditions are captured. [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61864-3_17.pdf) [[link]](https://pan.baidu.com/s/141bLd3kjw8I4L7vUhYiEnQ) (access code: ekn2)
-+ **HVIDIT**: A dataset built upon VIDIT (Virtual Image Dataset for Illumination Transfer) dataset for image harmonization. It contains 3007 images of 276 scenes for training and 329 images of 24 scenes for testing. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf) [[link]](https://github.com/zhenglab/IntrinsicHarmony)
-+ **RdHarmony**: A rendered image harmonization dataset, which contains 25,000 ground-truth rendered images with 11 novel categories, and has the potential to generate 225,000 composite rendered images. [[pdf]](https://arxiv.org/pdf/2103.17104.pdf) [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
-+ **RealHM**: A Real-world HarMonization dataset, which contains 216 real composite images with manually harmonized outputs. [[pdf]](https://arxiv.org/pdf/2108.06805.pdf) [[link]](https://github.com/VITA-Group/SSHarmonization)
++ **RealHM**: A real-world harmonization dataset, which contains 216 real composite images with manually harmonized outputs. [[pdf]](https://arxiv.org/pdf/2108.06805.pdf) [[link]](https://github.com/VITA-Group/SSHarmonization)
 + **ccHarmony**: An image harmonization dataset constructed based on the images captured with color checker (cc). It contains 10 synthetic composite images for each of 426 foregrounds from 350 real images, leading to 4260 pairs of synthetic composite images and ground-truth real images. [[pdf]](https://arxiv.org/pdf/2206.00800.pdf) [[link]](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
-+ **Arto**: A painterly harmonization dataset, which contains 33,294 artistic/painterly objects in artistic images with accurate object masks. Each painterly object is associated with a set of similar photographic objects. [[pdf]](https://arxiv.org/pdf/2312.10263.pdf) [[code]](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)
+
+### Rendered images
++ **HVIDIT**: A rendered dataset built upon VIDIT (Virtual Image Dataset for Illumination Transfer) dataset for image harmonization. It contains 3007 images of 276 scenes for training and 329 images of 24 scenes for testing. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf) [[link]](https://github.com/zhenglab/IntrinsicHarmony)
++ **RdHarmony**: A rendered image harmonization dataset, which contains 25,000 ground-truth rendered images with 11 categories, and has the potential to generate 225,000 composite rendered images. [[pdf]](https://arxiv.org/pdf/2103.17104.pdf) [[link]](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets)
++ **IllumHarmony**: A rendered image harmonization dataset (HDR illumination map + 3D object) with 138 3D humans and 318 HDR illumination maps. The whole dataset is split into 143,390 training images and 22,048 test images.  [[pdf]](https://arxiv.org/pdf/2112.01314) [[link]](https://github.com/waldenlakes/IllumHarmony-Dataset)
++ **IndoorHarmony**: A rendered image harmonization dataset (HDR illumination map + 3D object) with 135 3D humans and 720 HDR illumination maps. The whole dataset is split into 72,085 for training and 6,762 for testing. [[pdf]](http://www.npu-cvpg.org/uploads/file/24_01_05_02_57_01_603.pdf) [[link]](https://github.com/waldenlakes/IndoorHarmony-Dataset)
+
+### Artistic images
++ **Arto**: A painterly harmonization dataset, which contains 33,294 artistic/painterly objects in artistic images with accurate object masks. Each painterly object is associated with a set of similar photographic objects. [[pdf]](https://arxiv.org/pdf/2312.10263.pdf) [[link]](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)
+
 
 ## Related Topics
 
