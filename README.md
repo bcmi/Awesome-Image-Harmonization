@@ -41,6 +41,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Haolin Wang, Ming Liu, Zifei Yan, Chao Zhou, Longan Xiao, Wangmeng Zuo: "*Retrieval Augmented Image Harmonization.*" arXiv preprint arXiv:2412.13916 (2024) [[arXiv]](https://arxiv.org/pdf/2412.13916)
 + Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
 + Jing Zhou, Ziqi Yu, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*Foreground Harmonization and Shadow Generation for Composite Image.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
 + Pengfei Zhou, Fangxiang Feng, Guang Liu, Ruifan Li, Xiaojie Wang: "*DiffHarmony++: Enhancing Image Harmonization with Harmony-VAE and Inverse Harmonization Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681466) [[code]](https://github.com/nicecv/DiffHarmony) 
@@ -129,6 +130,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Related Topics
 
 #### Painterly/Style image harmonization
++ Zhangliang Sun, Hui Zhang: "*Painterly Image Harmonization via Bi-Transformation with Dynamic Kernels.*" BMVC (2024) [[pdf]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_100/paper.pdf)
 + Ruibin Li, Jingcai Guo, Song Guo, Qihua Zhou, Jie Zhang: "FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model." ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3680780)
 + Li Niu, Junyan Cao, Yan Hong, Liqing Zhang: "*Painterly Image Harmonization by Learning from Painterly Objects.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2312.10263.pdf) [[code]](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)
 + Li Niu, Yan Hong, Junyan Cao, Liqing Zhang: "*Progressive Painterly Image Harmonization from Low-level Styles to High-level Styles.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2312.10264.pdf) [[code]](https://github.com/bcmi/ProPIH-Painterly-Image-Harmonization)
