@@ -145,6 +145,7 @@ We summarize different color transfer strategies which could be used for image h
 + Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala: "*Deep Painterly Harmonization.*"  Computer graphics forum (2018) [[arXiv]](https://arxiv.org/pdf/1804.03189.pdf?ref=https://githubhelp.com) [[code]](https://github.com/luanfujun/deep-painterly-harmonization)
 
 #### Inharmonious region localization
++ Philip Wootaek Shin, Jack Sampson, Vijaykrishnan Narayanan, Andres Marquez, Mahantesh Halappanavar: "*Disharmony: Forensics using Reverse Lighting Harmonization.*" arXiv preprint arXiv:2501.10212 (2025) [[arXiv]](https://arxiv.org/pdf/2501.10212)
 + Shu Zhang, Hai Huang, Yueyan Zhu: "*Multi-Scale Context Aggregation Network for Inharmonious Region Localization.*" ICAIT (2023) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10367321&casa_token=dpf1H1uuD1kAAAAA:eJW-r0z2mHbJafBeHcpXZtywXWA2LZPDgepA5yoFbnPYqG5bCmWj-94Q_McxX3wdyfVLc09D&tag=1)
 + Penghao Wu, Li Niu, Liqing Zhang: "*Inharmonious Region Localization with Auxiliary Style Feature.*" BMVC (2022) [[pdf]](https://bmvc2022.mpi-inf.mpg.de/0197.pdf) [[code]](https://github.com/bcmi/AustNet-Inharmonious-Region-Localization)
 + Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022) [[arXiv]](https://arxiv.org/pdf/2209.15368.pdf) [[code]](https://github.com/bcmi/MadisNet-Inharmonious-Region-Localization)
