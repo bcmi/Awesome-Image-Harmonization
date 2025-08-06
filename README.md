@@ -41,6 +41,7 @@ We summarize different color transfer strategies which could be used for image h
 ## Papers
 
 #### Supervised deep learning methods
++ Guanlin Li, Bin Zhao, Xuelong Li: "*Image harmonization in complex degradation scenes.*" Pattern Recognition (2025) [[paper]](https://www.sciencedirect.com/science/article/pii/S003132032500888X) [[code]](https://github.com/guanguanboy/HCDM)
 + Haolin Wang, Ming Liu, Zifei Yan, Chao Zhou, Longan Xiao, Wangmeng Zuo: "*Retrieval Augmented Image Harmonization.*" arXiv preprint arXiv:2412.13916 (2024) [[arXiv]](https://arxiv.org/pdf/2412.13916)
 + Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
 + Jing Zhou, Ziqi Yu, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*Foreground Harmonization and Shadow Generation for Composite Image.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
@@ -116,6 +117,7 @@ We summarize different color transfer strategies which could be used for image h
 + **GMSDataset**: It contains 183 images with image resolution of 1940*1440. It consists of 16 different objects and for each object, one source image and 11 target images in different background scenes and illumination conditions are captured. [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61864-3_17.pdf) [[link]](https://pan.baidu.com/s/141bLd3kjw8I4L7vUhYiEnQ) (access code: ekn2)
 + **RealHM**: A real-world harmonization dataset, which contains 216 real composite images with manually harmonized outputs. [[pdf]](https://arxiv.org/pdf/2108.06805.pdf) [[link]](https://github.com/VITA-Group/SSHarmonization)
 + **ccHarmony**: An image harmonization dataset constructed based on the images captured with color checker (cc). It contains 10 synthetic composite images for each of 426 foregrounds from 350 real images, leading to 4260 pairs of synthetic composite images and ground-truth real images. [[pdf]](https://arxiv.org/pdf/2206.00800.pdf) [[link]](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
++ **D-iHarmony4**: It contains 4 sub-datasets: D-HCOCO,D-HAdobe5k, D-HFlickr, and D-Hday2night, each of which contains degraded composite images, foreground masks of composite images and corresponding real images. [[paper]](https://www.sciencedirect.com/science/article/pii/S003132032500888X) [[link]](https://github.com/guanguanboy/HCDM)
 
 ### Rendered images
 + **HVIDIT**: A rendered dataset built upon VIDIT (Virtual Image Dataset for Illumination Transfer) dataset for image harmonization. It contains 3007 images of 276 scenes for training and 329 images of 24 scenes for testing. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf) [[link]](https://github.com/zhenglab/IntrinsicHarmony)
