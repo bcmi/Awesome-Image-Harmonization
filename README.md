@@ -148,7 +148,8 @@ We summarize different color transfer strategies which could be used for image h
 + Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala: "*Deep Painterly Harmonization.*"  Computer graphics forum (2018) [[arXiv]](https://arxiv.org/pdf/1804.03189.pdf?ref=https://githubhelp.com) [[code]](https://github.com/luanfujun/deep-painterly-harmonization)
 
 #### Inharmonious region localization
-+ Philip Wootaek Shin, Jack Sampson, Vijaykrishnan Narayanan, Andres Marquez, Mahantesh Halappanavar: "*Disharmony: Forensics using Reverse Lighting Harmonization.*" arXiv preprint arXiv:2501.10212 (2025) [[arXiv]](https://arxiv.org/pdf/2501.10212)
++ Shenghao Chen, Chunjie Ma, Yibo Zhao, Meng Liu, Yanbing Xue, Zan Gao: "A Novel Multi-view Perception and Shrinkage Aggregation Network for Inharmonious Region Localization." T-CSVT (2025) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11180079)
++ Philip Wootaek Shin, Jack Sampson, Vijaykrishnan Narayanan, Andres Marquez, Mahantesh Halappanavar: "*Disharmony: Forensics using Reverse Lighting Harmonization.*" WACV (2025) [[paper]](https://openaccess.thecvf.com/content/WACV2025W/AI4MFDD/papers/Shin_Disharmony_Forensics_using_Reverse_Lighting_Harmonization_WACVW_2025_paper.pdf)
 + Shu Zhang, Hai Huang, Yueyan Zhu: "*Multi-Scale Context Aggregation Network for Inharmonious Region Localization.*" ICAIT (2023) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10367321&casa_token=dpf1H1uuD1kAAAAA:eJW-r0z2mHbJafBeHcpXZtywXWA2LZPDgepA5yoFbnPYqG5bCmWj-94Q_McxX3wdyfVLc09D&tag=1)
 + Penghao Wu, Li Niu, Liqing Zhang: "*Inharmonious Region Localization with Auxiliary Style Feature.*" BMVC (2022) [[pdf]](https://bmvc2022.mpi-inf.mpg.de/0197.pdf) [[code]](https://github.com/bcmi/AustNet-Inharmonious-Region-Localization)
 + Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, Teng Long: "*Inharmonious Region Localization by Magnifying Domain Discrepancy.*" AAAI (2022) [[arXiv]](https://arxiv.org/pdf/2209.15368.pdf) [[code]](https://github.com/bcmi/MadisNet-Inharmonious-Region-Localization)
@@ -160,7 +161,7 @@ We summarize different color transfer strategies which could be used for image h
 + Xiuwen Chen, Li Fang, Long Ye, Qin Zhang: "*Deep Video Harmonization by Improving Spatial-temporal Consistency.*" Machine Intelligence Research (2024) [[pdf]](https://link.springer.com/article/10.1007/s11633-023-1447-3)
 + Zeyu Xiao, Yurui Zhu, Xueyang Fu, Zhiwei Xiong: "*TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization.*" WACV (2024) [[pdf]](https://openaccess.thecvf.com/content/WACV2024/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf)
 + Xinyuan Lu, Shengyuan Huang, Li Niu, Wenyan Cong, Liqing Zhang: "*Deep Video Harmonization with Color Mapping Consistency.*" IJCAI (2022) [[arXiv]](https://arxiv.org/pdf/2205.00687.pdf) [[dataset&code]](https://github.com/bcmi/Video-Harmonization-Dataset-HYouTube)
-+ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" IEEE Trans. Image Process. 29: 214-224 (2020) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
++ Haozhi Huang, Senzhe Xu, Junxiong Cai, Wei Liu, Shimin Hu: "*Temporally Coherent Video Harmonization Using Adversarial Networks.*" T-IP [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8765343) [[arXiv]](https://arxiv.org/abs/1809.01372) 
  
 ## Other Resources
 
